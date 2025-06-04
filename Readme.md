@@ -23,7 +23,9 @@ Con base en estos datos, se recomienda cuál tienda es menos eficiente y podría
 alura-store/
 │
 ├── alura_store_analysis.ipynb # Notebook con todo el análisis y gráficos
+
 ├── README.md # Archivo de documentación
+
 └── informe # Documentacion
 
 
